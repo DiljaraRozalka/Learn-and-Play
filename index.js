@@ -225,7 +225,7 @@ function makeSound(key) {
       tom4.play();
       break;
 
-    case "drum":
+    case "drums":
       var snare = new Audio('sounds/drum.mp3');
       snare.play();
       break;
