@@ -1,0 +1,304 @@
+.bodyofmain {
+  text-align: center;
+  margin:0;
+  padding:20px 0;
+  background-image: url("images/clouds.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.mainheader{
+  font-size: 8rem;
+  color: #ffcc29;
+  font-family:'Nunito', sans-serif;
+  text-shadow: 3px 0 #98ded9;
+  margin: 5px 20px 30px;
+}
+
+.bodyofalphabet {
+  text-align: center;
+  margin:0;
+  padding:20px 0;
+  background-image: url("images/sky.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.headeralphabet{
+  font-size: 7rem;
+  color: #ffcc29;
+  font-family:'Nunito', sans-serif;
+  text-shadow: 3px 0 #98ded9;
+  margin: 5px 20px 60px;
+}
+.bodyofmusic {
+  text-align: center;
+  margin:0;
+  padding:20px 0;
+  background-image: url("images/rolling-hill-vector.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.headermusic{
+  font-size: 7rem;
+  color: #ffcc29;
+  font-family:'Nunito', sans-serif;
+  text-shadow: 3px 0 #98ded9;
+  margin-top: 10px;
+}
+.bodyoffarm {
+  text-align: center;
+  margin:0;
+  padding:20px 0;
+  background-image: url("images/Landscape.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#title {
+  font-size: 8rem;
+  color: #ffcc29;
+  font-family: 'Nunito', sans-serif;
+  text-shadow: 3px 0 #98ded9;
+  margin-top: 8px;
+  margin-bottom: 10px;
+}
+.homepicfarm {
+  margin-top: 50px;
+  background-position: center bottom;
+  width:40%;
+  height: 30%;
+  bottom:0;
+}
+.homepicmusic {
+  margin-top: 50px;
+  background-position: center bottom;
+  width:40%;
+  height: 30%;
+  bottom:0;
+}
+.homepicmain {
+  top:0;
+  background-position: center bottom;
+  width:70%;
+  height: 60%;
+  bottom:0;
+z-index:-100;
+}
+
+.set {
+
+margin: 5% 20% 5%;
+}
+
+.home {
+position: fixed;
+ top: 8px;
+ left:16px;
+}
+
+.al {
+  background-image: url("images/abc.jpg");
+  background-size: 160px;
+  background-position: center;
+}
+.fa {
+  background-image: url("images/farm.jpg");
+  background-size: 150px;
+  background-position: center;
+}
+.mu {
+  background-image: url("images/music.jpg");
+  background-size: 155px;
+  background-position: center;
+}
+.a {
+  background-image: url("images/letter-a.jpg");
+}
+.b {
+  background-image: url("images/letter-b.jpg");
+}
+.c {
+  background-image: url("images/letter-c.jpg");
+}
+
+.d {
+  background-image: url("images/letter-d.jpg");
+}
+.e {
+  background-image: url("images/letter-e.jpg");
+}
+.f {
+  background-image: url("images/letter-f.jpg");
+}
+.g {
+  background-image: url("images/letter-g.jpg");
+}
+.h {
+  background-image: url("images/letter-h.jpg");
+}
+.i {
+  background-image: url("images/letter-i.jpg");
+}
+.j {
+  background-image: url("images/letter-j.jpg");
+}
+.k {
+  background-image: url("images/letter-k.jpg");
+}
+.l {
+  background-image: url("images/letter-l.jpg");
+}
+.m {
+  background-image: url("images/letter-m.jpg");
+}
+.n {
+  background-image: url("images/letter-n.jpg");
+}
+.o {
+  background-image: url("images/letter-o.jpg");
+}
+.p {
+  background-image: url("images/letter-p.jpg");
+}
+.q {
+  background-image: url("images/letter-q.jpg");
+}
+.r {
+  background-image: url("images/letter-r.jpg");
+}
+.s {
+  background-image: url("images/letter-s.jpg");
+}
+.t {
+  background-image: url("images/letter-t.jpg");
+}
+.u {
+  background-image: url("images/letter-u.jpg");
+}
+.v {
+  background-image: url("images/letter-v.jpg");
+}
+.w {
+  background-image: url("images/letter-w.jpg");
+}
+.x {
+  background-image: url("images/letter-x.jpg");
+}
+.y {
+  background-image: url("images/letter-y.jpg");
+}
+.z {
+  background-image: url("images/letter-z.jpg");
+
+}
+.cow {
+  background-image: url("images/cow.jpg") ;
+
+}
+.chicken {
+  background-image: url("images/chicken.jpg");
+
+}
+.horse {
+  background-image: url("images/horse.jpg");
+
+}
+.pig {
+  background-image: url("images/pig.jpg");
+}
+.cat {
+  background-image: url("images/cat.jpg");
+
+}
+.sheep {
+  background-image: url("images/sheep.jpg");
+
+}
+.dog {
+  background-image: url("images/dog.jpg");
+
+}
+.goat {
+  background-image: url("images/goat.jpg");
+
+}
+.trumpet {
+  background-image: url("images/trumpet.jpg");
+
+}
+.violin {
+  background-image: url("images/violin.jpg");
+
+}
+.piano {
+  background-image: url("images/piano.jpg");
+  background-size: 130px;
+
+}
+.guitar {
+  background-image: url("images/guitar.jpg");
+
+}
+.drums {
+  background-image: url("images/drums.jpg");
+
+}
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+.alphabet {
+  outline: none;
+  border-color:#e8ffff solid;
+  border-radius: 15px;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 5px 10px 5px;
+  color:rgba(0, 0, 0, 0);
+  background-size: 130px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.music {
+  outline: none;
+  border-color:#e8ffff solid;
+  border-radius: 15px;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  color:rgba(0, 0, 0, 0);
+  background-size: 130px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.farm {
+  outline: none;
+  border-color:#e8ffff solid;
+  border-radius: 15px;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  color:rgba(0, 0, 0, 0);
+  background-size: 155px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.image {
+  outline: none;
+  border-color:#e8ffff solid;
+  border-radius: 15px;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+
+}
+
+p {
+  color:#e8ffff;
+}

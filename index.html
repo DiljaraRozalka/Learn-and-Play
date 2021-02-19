@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,700&display=swap" rel="stylesheet">
+  <title>Learn and Play</title>
+</head>
+
+<body class="bodyofmain">
+
+  <h1 class="mainheader">Learn & Play</h1>
+
+  <div class="row">
+    <form>
+      <button formaction="alphabet.html" class="al image btn"></button>
+      <button formaction="farm.html" class="fa image btn"></button>
+      <button formaction="music.html" class="mu image btn"></button>
+    </form>
+
+  </div>
+
+  <script src="server.js" charset="utf-8"></script>
+
+  <footer>
+    <img class="homepicmain" src="images/homepic.png" alt="">
+    <p>Made by Dilia</p>
+  </footer>
+
+</body>
+
+</html>
